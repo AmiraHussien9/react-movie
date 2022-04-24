@@ -1,0 +1,78 @@
+.home-title {
+    background-image: url('https://www.filmindependent.org/wp-content/uploads/2019/06/HorizontalPanel_midroll.jpg');
+    height: 100vh;
+    position: relative;
+    top: -25px;
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 33;
+    background-color: #111010d4;
+  }
+
+.heading {
+    position: relative;
+    z-index: 55;
+    text-align: center;
+}
+.mybtn {
+    background-color: #cd0c0c !important;
+    color: #fff !important;
+}
+
+
+.home-content .row {
+    height: 100vh;
+
+
+
+}
+.tv {
+    position: relative;
+
+}
+.tv img {
+    position: relative;
+    z-index: 33 !important;
+}
+
+.animation {
+    position: absolute;
+    top: 21%;
+    left: 13%;
+    width: 73%;
+
+ 
+}
+
+.line {
+    width: 100%;
+    height: 4px;
+    background-color: rgb(39, 37, 37);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+/**********************************/
+
+.watch {
+    position: relative;
+}
+.watch img {
+    position: relative;
+    z-index: 66;
+}
+.animation-watch {
+    position: absolute;
+    top: 10%;
+    left: 19%;
+    width: 61%;
+}
+
+
+
+

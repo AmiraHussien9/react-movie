@@ -1,0 +1,30 @@
+.footer {
+    margin-top: 50px;
+    padding: 30px;
+    background-color: rgb(37 36 36 / 33%);
+}
+
+
+.footerList li  {
+    display: block;
+    color: rgb(255 255 255 / 52%);
+    margin-bottom: 10px;
+    transition:  all .2s;
+    cursor: pointer;
+}
+
+.footerList li:hover {
+    color: #fff;
+    text-decoration: solid;  
+}
+
+
+@media(max-width:750px) {
+
+    .footer .row .col-md-3{
+        width: 50%;
+    }
+    
+
+}
+
